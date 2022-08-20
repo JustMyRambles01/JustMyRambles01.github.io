@@ -14,6 +14,7 @@ window.ca['reaper'] = '0xC6b49F643e9E67157D51076736AC7351d30B3057';
 window.ca['dev'] = '0xE0d61627d14F1E6C1C5FABDD219dF0a003C9a0cC';
 window.rpcServer = 'https://moeing.tech:9545';
 window.netId = 10001;
+window.netId0x = '0x2711';
 window.netName = "SmartBch Testnet";
 window.ETH = "sBCH";
 window.blockExplorer = "https://smartscan.cash/";

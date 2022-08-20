@@ -14,6 +14,7 @@ window.ca['reaper'] = '0xb1C2103F29341C0E62aE88a5d13D84b5ea6757A9';
 window.ca['dev'] = '0xd54265a68240c236d46E525B85E2F247c5d0dB23';
 window.rpcServer = 'https://rpc-testnet.dogechain.dog';
 window.netId = 568;
+window.netId0x = '0x238';
 window.netName = "Dogechain Testnet";
 window.ETH = "WDOGE";
 window.blockExplorer = "https://explorer-testnet.dogechain.dog";
